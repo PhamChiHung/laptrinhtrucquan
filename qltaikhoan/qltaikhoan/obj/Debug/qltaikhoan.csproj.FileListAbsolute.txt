@@ -1,0 +1,53 @@
+C:\Users\hung\source\repos\qltaikhoan\qltaikhoan\bin\Debug\qltaikhoan.exe.config
+C:\Users\hung\source\repos\qltaikhoan\qltaikhoan\bin\Debug\qltaikhoan.exe
+C:\Users\hung\source\repos\qltaikhoan\qltaikhoan\bin\Debug\qltaikhoan.pdb
+C:\Users\hung\source\repos\qltaikhoan\qltaikhoan\obj\Debug\qltaikhoan.csproj.AssemblyReference.cache
+C:\Users\hung\source\repos\qltaikhoan\qltaikhoan\obj\Debug\qltaikhoan.csproj.SuggestedBindingRedirects.cache
+C:\Users\hung\source\repos\qltaikhoan\qltaikhoan\obj\Debug\qltaikhoan.Properties.Resources.resources
+C:\Users\hung\source\repos\qltaikhoan\qltaikhoan\obj\Debug\qltaikhoan.csproj.GenerateResource.cache
+C:\Users\hung\source\repos\qltaikhoan\qltaikhoan\obj\Debug\qltaikhoan.csproj.CoreCompileInputs.cache
+C:\Users\hung\source\repos\qltaikhoan\qltaikhoan\obj\Debug\qltaikhoan.exe
+C:\Users\hung\source\repos\qltaikhoan\qltaikhoan\obj\Debug\qltaikhoan.pdb
+C:\Users\hung\source\repos\qltaikhoan\qltaikhoan\obj\Debug\qltaikhoan.qltaikhoan.resources
+C:\Users\hung\source\repos\qltaikhoan\qltaikhoan\obj\Debug\qltaikhoan.DSTaiKhoan.resources
+C:\Users\hung\source\repos\qltaikhoan\qltaikhoan\obj\Debug\qltaikhoan.Login.resources
+C:\Users\hung\Downloads\qltaikhoan\qltaikhoan\bin\Debug\qltaikhoan.exe.config
+C:\Users\hung\Downloads\qltaikhoan\qltaikhoan\bin\Debug\qltaikhoan.exe
+C:\Users\hung\Downloads\qltaikhoan\qltaikhoan\bin\Debug\qltaikhoan.pdb
+C:\Users\hung\Downloads\qltaikhoan\qltaikhoan\obj\Debug\qltaikhoan.csproj.AssemblyReference.cache
+C:\Users\hung\Downloads\qltaikhoan\qltaikhoan\obj\Debug\qltaikhoan.csproj.SuggestedBindingRedirects.cache
+C:\Users\hung\Downloads\qltaikhoan\qltaikhoan\obj\Debug\qltaikhoan.DSTaiKhoan.resources
+C:\Users\hung\Downloads\qltaikhoan\qltaikhoan\obj\Debug\qltaikhoan.Properties.Resources.resources
+C:\Users\hung\Downloads\qltaikhoan\qltaikhoan\obj\Debug\qltaikhoan.csproj.GenerateResource.cache
+C:\Users\hung\Downloads\qltaikhoan\qltaikhoan\obj\Debug\qltaikhoan.csproj.CoreCompileInputs.cache
+C:\Users\hung\Downloads\qltaikhoan\qltaikhoan\obj\Debug\qltaikhoan.exe
+C:\Users\hung\Downloads\qltaikhoan\qltaikhoan\obj\Debug\qltaikhoan.pdb
+C:\Users\hung\Downloads\qltaikhoan\qltaikhoan\bin\Debug\EPPlus.dll
+C:\Users\hung\Downloads\qltaikhoan\qltaikhoan\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\hung\Downloads\qltaikhoan\qltaikhoan\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\hung\Downloads\qltaikhoan\qltaikhoan\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\hung\Downloads\qltaikhoan\qltaikhoan\bin\Debug\EPPlus.xml
+C:\Users\hung\Downloads\qltaikhoan\qltaikhoan\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\hung\Downloads\qltaikhoan\qltaikhoan\obj\Debug\qltaikhoan.csproj.CopyComplete
+C:\Users\hung\Downloads\qltaikhoan\qltaikhoan\obj\Debug\qltaikhoan.CapNhatMK.resources
+C:\Users\hung\Downloads\qltaikhoan\qltaikhoan\obj\Debug\qltaikhoan.DoiMatKhau.resources
+D:\Program Files\Vs\qltaikhoan\qltaikhoan\bin\Debug\qltaikhoan.exe.config
+D:\Program Files\Vs\qltaikhoan\qltaikhoan\bin\Debug\qltaikhoan.exe
+D:\Program Files\Vs\qltaikhoan\qltaikhoan\bin\Debug\qltaikhoan.pdb
+D:\Program Files\Vs\qltaikhoan\qltaikhoan\bin\Debug\EPPlus.dll
+D:\Program Files\Vs\qltaikhoan\qltaikhoan\bin\Debug\EPPlus.Interfaces.dll
+D:\Program Files\Vs\qltaikhoan\qltaikhoan\bin\Debug\EPPlus.System.Drawing.dll
+D:\Program Files\Vs\qltaikhoan\qltaikhoan\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Program Files\Vs\qltaikhoan\qltaikhoan\bin\Debug\EPPlus.xml
+D:\Program Files\Vs\qltaikhoan\qltaikhoan\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Program Files\Vs\qltaikhoan\qltaikhoan\obj\Debug\qltaikhoan.csproj.AssemblyReference.cache
+D:\Program Files\Vs\qltaikhoan\qltaikhoan\obj\Debug\qltaikhoan.csproj.SuggestedBindingRedirects.cache
+D:\Program Files\Vs\qltaikhoan\qltaikhoan\obj\Debug\qltaikhoan.CapNhatMK.resources
+D:\Program Files\Vs\qltaikhoan\qltaikhoan\obj\Debug\qltaikhoan.DoiMatKhau.resources
+D:\Program Files\Vs\qltaikhoan\qltaikhoan\obj\Debug\qltaikhoan.DSTaiKhoan.resources
+D:\Program Files\Vs\qltaikhoan\qltaikhoan\obj\Debug\qltaikhoan.Properties.Resources.resources
+D:\Program Files\Vs\qltaikhoan\qltaikhoan\obj\Debug\qltaikhoan.csproj.GenerateResource.cache
+D:\Program Files\Vs\qltaikhoan\qltaikhoan\obj\Debug\qltaikhoan.csproj.CoreCompileInputs.cache
+D:\Program Files\Vs\qltaikhoan\qltaikhoan\obj\Debug\qltaikhoan.csproj.CopyComplete
+D:\Program Files\Vs\qltaikhoan\qltaikhoan\obj\Debug\qltaikhoan.exe
+D:\Program Files\Vs\qltaikhoan\qltaikhoan\obj\Debug\qltaikhoan.pdb
